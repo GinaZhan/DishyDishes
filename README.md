@@ -1,6 +1,5 @@
 # DishyDishes
-A Recipe-Social website, this repo contains both the frontend and the backend.
-
+A Recipe-Social website project, this repository includes both the frontend and backend components. It was transferred from local storage after we lost access to the original GitLab repository, which was tied to a school account. The contributors to this project are Jie Zhang, Kaicheng Xu, Shuren Xu, and Zirui He.
 
 ## Getting started
 Visit [DishyDishyes.top](https://dishydishes.top)(Avaliable on Expo day)  
